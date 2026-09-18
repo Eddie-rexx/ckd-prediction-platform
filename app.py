@@ -53,7 +53,7 @@ if page == "🏠 Home":
     ## About This Project
     Chronic Kidney Disease (CKD) affects over **850 million people worldwide**.
     Early detection saves lives — but AI models can be **biased** against
-    certain demographic groups, leading to misdiagnosis.
+    certain age groups, leading to misdiagnosis.
 
     This platform:
     - ✅ Predicts CKD from clinical measurements
