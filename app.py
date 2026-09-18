@@ -37,7 +37,7 @@ page = st.sidebar.radio("Navigate", [
 # ════════════════════════════════════════════════════════════════
 if page == "🏠 Home":
     st.title("🏥 Bias-Aware CKD Prediction Platform")
-    st.markdown("### Predicting Chronic Kidney Disease Across Demographic Groups")
+    st.markdown("### Predicting Chronic Kidney Disease Across All Age Groups")
     st.markdown("---")
 
     col1, col2, col3 = st.columns(3)
